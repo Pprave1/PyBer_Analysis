@@ -12,7 +12,7 @@ Using our Python skills and knowledge of Pandas, we will create a summary of Dat
 
  ###Object -Oriented plot
  
- ![Summary_Dataframe.png](analysis/Summary_Dataframe.png)
+ ![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
 
 
