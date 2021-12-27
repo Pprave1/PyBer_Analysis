@@ -4,6 +4,7 @@
 Using our Python skills and knowledge of Pandas, we will create a summary of Data Frame of the ride-sharing data by city type. After that, using Pandas and Matplotlib, we will create a multiple-line graphs that shows total fares for each city type. And a final analysis of report of how the data differs by city type, and how that difference helps the decision makers.
 # Results
    ###Summary data Frame 
+   
    ![Summary__Dataframe.png](analysis/Summary__Dataframe.png)
   
 
