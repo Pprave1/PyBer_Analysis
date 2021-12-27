@@ -4,6 +4,7 @@
 Using our Python skills and knowledge of Pandas, we will create a summary of Data Frame of the ride-sharing data by city type. After that, using Pandas and Matplotlib, we will create a multiple-line graphs that shows total fares for each city type. And a final analysis of report of how the data differs by city type, and how that difference helps the decision makers.
 # Results
    ###Summary data Frame 
+   
    ![Summary_data-frame_2021-12-26 223951.png](analysis/Summary_data-frame_2021-12-26 223951.png)
 
 ## According to summary data frame, Average fare per driver decreased with increase in total fares and total number of drivers, which significantly lower compared to Rural and Suburban. Whereas the Average Fare per ride is high in Rural with increased with high total fares and less total rides compared to Suburban and Urban.
