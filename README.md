@@ -6,6 +6,8 @@ Using our Python skills and knowledge of Pandas, we will create a summary of Dat
 
 ## According to summary data frame, Average fare per driver decreased with increase in total fares and total number of drivers, which significantly lower compared to Rural and Suburban. Whereas the Average Fare per ride is high in Rural with increased with high total fares and less total rides compared to Suburban and Urban.
 
+Summary_data-frame_2021-12-26 223951.png
+
 
 ## And as per Object-oriented interface plot method-there was an increase in fare during the end of February.
 
